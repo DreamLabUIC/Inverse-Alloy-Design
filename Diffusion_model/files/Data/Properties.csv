@@ -1,0 +1,7 @@
+Density (lb/in^3),Young's modulus (10^6 psi),Flexural modulus (10^6 psi),Shear modulus (10^6 psi),Bulk modulus (10^6 psi),Poisson's ratio,Melting point (F),Thermal conductivity (BTU/hr.ft.F),Specific heat capacity (BTU/lb.F),Thermal expansion coefficient (strain/F),Latent heat of fusion (BTU/lb),Electrical conductivity (%IACS),Acoustic velocity (in/s),Average Atomic Weight (g/mole)
+0.26,41.3,41.3,17.4,24.7,0.22,3420,54.3,0.124,3.89,127,13.6,249000,51.9961
+0.285,30.7,30.7,12,25.1,0.295,2750,30.6,0.115,7.22,120,11.5,205000,56.01546871
+0.325,30.5,30.5,12.3,25.4,0.3,2500,6.64,0.104,6.67,129,1.38,191000,76.58979764
+0.164,16,16,5.95,20.6,0.37,2890,4.62,0.134,5.44,159,1.37,194000,51.90570195
+0.311,4.64,4.64,2.18,7.98,0.4,370,34.7,0.0478,13.9,19.3,12.3,76400,159.5765433
+0.381,4.5,4.5,1.74,13.8,0.445,493,15,0.037,14.4,51.6,6.14,67700,208.6660345
