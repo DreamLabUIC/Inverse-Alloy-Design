@@ -157,7 +157,7 @@ def compute_total_mse(predicted, target):
     return total_mse
 
 
-def refine_composition(composition_tensor, threshold=1e-3):
+def refine_composition(composition_tensor, threshold=1e-5):
     """
     Refines a composition tensor by:
     - Zeroing out small values below the threshold.
