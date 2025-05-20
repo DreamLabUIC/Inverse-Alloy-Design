@@ -8,6 +8,9 @@ This repository provides tools for inverse alloy design using both **gradient-ba
 - **Pre-Trained Models**: The trained models are provided to help users apply the tools without the need for re-training.
 - **Compositional Design Exploration**: Efficiently explore alloy compositions and their corresponding properties.
 
+## License
+This code is released for academic and research purposes. Please refer to the repository for specific usage terms.
+
 ## Requirements
 The following Python libraries are required:
 - **Pandas** (for data manipulation)
@@ -19,7 +22,3 @@ You can install the required libraries using `pip`:
 ```bash
 pip install pandas numpy torch
 
-## License
-This code is released for academic and research purposes. Please refer to the repository for specific usage terms.
-
-You can copy and paste the above directly into your GitHub repository's `README.md` file. Let me know if you'd like any further changes!
